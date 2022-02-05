@@ -1,8 +1,8 @@
-#!/usr/bin/env python3
+"""
+    Counts frequency of each word in the file `text.txt`
+"""
 
-""" Counts frequency of each word in the file `text.txt` """
-
-import re   # regular expressions
+import re  # regular expressions
 
 dict = {}
 with open("text.txt", encoding="utf8") as file:
