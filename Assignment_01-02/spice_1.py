@@ -22,10 +22,10 @@ class Element:
         self.n2 = words[2]
         self.value = words[-1]
 
-        if self.type == "E" or self.type == "F":
+        if self.type == "E" or self.type == "G":
             self.n3 = words[3]
             self.n4 = words[4]
-        elif self.type == "G" or self.type == "H":
+        elif self.type == "F" or self.type == "H":
             self.name2 = words[3]
 
     def __str__(self):
