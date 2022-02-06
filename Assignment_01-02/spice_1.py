@@ -1,5 +1,5 @@
 """
-    EE2703: Applied Programming Lab - 2021
+    EE2703: Applied Programming Lab - 2022
         Assignment 1: Spice - Part 1
             Soham Roy - EE20B130
 """
