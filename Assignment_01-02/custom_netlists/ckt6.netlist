@@ -1,0 +1,17 @@
+There could be junk here!
+Since this portion does not belong to circuit definition.
+.circuit
+R1 N004 N003 4.5e3
+L1 N005 N004 80.96e-6
+L2 N006 N005 80.96e-6
+R2 GND N006 4e3
+C1 N005 GND 2.485e-12
+V1 GND N003 ac 2 60
+R3 N004 N003 4.5e3
+L3 N001 N005 40.69e-6
+R4 N002 N001 6e3
+C2 N002 N006 2e-12
+.end
+.ac V1 1e6
+There could be junk here!
+Since this portion does not belong to circuit definition.
